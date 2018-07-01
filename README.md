@@ -25,11 +25,8 @@ $ cd HelloWorld
 $ python3 -m pip install -r requirements.txt
 $ python3 helloworld.py
 ```
-
-## Attention
-
-for the first time running python helloworld.py will be an error
-
+##Coment
+belajar membuat file orlie bot..
 ## LINE
 [HelloWorld Square](https://line.me/ti/g2/LPYXUFI1YE)
 
