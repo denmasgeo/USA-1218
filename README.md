@@ -25,8 +25,8 @@ $ cd HelloWorld
 $ python3 -m pip install -r requirements.txt
 $ python3 helloworld.py
 ```
-##Coment
-belajar membuat file orlie bot..
+Coment
+belajar membuat file orline bot..
 ## LINE
 [HelloWorld Square](https://line.me/ti/g2/LPYXUFI1YE)
 
