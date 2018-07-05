@@ -1,5 +1,4 @@
-# ![logo](LINE-sm.png) LINE Python
-
+#
 *LINE Messaging's private API*
 
 ----
@@ -27,11 +26,5 @@ $ python3 helloworld.py
 ```
 Coment
 belajar membuat file orline bot..
-## LINE
-[HelloWorld Square](https://line.me/ti/g2/LPYXUFI1YE)
-
-## Discord
-[HelloWorld](https://discord.gg/5jqbutB)
-
 ## Thanks For Author linepy
 Fadhiil Rachman / [@fadhiilrachman](https://www.instagram.com/fadhiilrachman)
