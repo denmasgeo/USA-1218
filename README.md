@@ -22,7 +22,7 @@ $ python helloworld.py
 $ git clone https://github.com/denmasgeo/HelloWorld
 $ cd HelloWorld
 $ python3 -m pip install -r requirements.txt
-$ python3 helloworld.py
+$ python3 geopy1.py
 ```
 Coment
 belajar membuat file orline bot..
