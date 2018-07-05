@@ -12,8 +12,8 @@ $ apt install python
 $ apt install git
 $ git clone https://github.com/denmasgeo/HelloWorld
 $ cd HelloWorld
-$ python -m pip install -r requirements.txt
-$ python helloworld.py
+$ python3 -m pip install -r requirements.txt
+$ python3 geopy1.py
 ```
 
 ## Installation for VPS
