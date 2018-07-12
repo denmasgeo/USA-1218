@@ -3,10 +3,10 @@ from ..akad.ttypes import ApplicationType
 import re
 
 class Config(object):
-    LINE_HOST_DOMAIN            = 'https://gfs.line.naver.jp'
+    LINE_HOST_DOMAIN            = 'https://gd2.line.naver.jp'
     LINE_OBS_DOMAIN             = 'https://obs-sg.line-apps.com'
-    LINE_TIMELINE_API           = 'https://gfs.line.naver.jp/mh/api'
-    LINE_TIMELINE_MH            = 'https://gfs.line.naver.jp/mh'
+    LINE_TIMELINE_API           = 'https://gd2.line.naver.jp/mh/api'
+    LINE_TIMELINE_MH            = 'https://gd2.line.naver.jp/mh'
 
     LINE_LOGIN_QUERY_PATH       = '/api/v4p/rs'
     LINE_AUTH_QUERY_PATH        = '/api/v4/TalkService.do'
@@ -29,10 +29,10 @@ class Config(object):
     }
 
     APP_TYPE    = ApplicationType._VALUES_TO_NAMES[368]
-    APP_VER     = '1.4.17'
+    APP_VER     = '2.1.5'
     CARRIER     = '51089, 1-0'
     SYSTEM_NAME = 'DG/chromeos'
-    SYSTEM_VER  = '11.2.5'
+    SYSTEM_VER  = '2.1.5'
     IP_ADDR     = '8.8.8.8'
     EMAIL_REGEX = re.compile(r"[^@]+@[^@]+\.[^@]+")
 
