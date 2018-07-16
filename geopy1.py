@@ -33,8 +33,8 @@ try:
 			print(error)
 except Exception as error:
 	print(error)
-#with open("authToken.txt", "w") as token:
-#    token.write(str(client.authToken))
+with open("authToken.txt", "w") as token:
+    token.write(str(client.authToken))
 clientMid = client.profile.mid
 clientStart = time.time()
 clientPoll = OEPoll(client)
